@@ -1,0 +1,1 @@
+export const Logo = "https://cdn.pixabay.com/photo/2017/01/31/13/14/animal-2023924_1280.png"
